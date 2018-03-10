@@ -16,9 +16,11 @@ Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](ht
 [1. Prepare Data Set](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
  - [Load Python Packages]
  - [Load and Prepare Data Set] 
+ 
 [2. Data Quality Assessment](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
  - [Check Missing Values]
  - [Check Duplicated Values]
+ 
 [3. Exploratory Data Analysis and Feature Engineering](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
  - [1.Market Capitalization and Transaction Volume]
  - [2.Price Fluctuation of Cryptocurrencies]
@@ -26,14 +28,18 @@ Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](ht
  - [4.Market Prices of Cryptocurrencies]
  - [5.Return Ratio]
  - [6.Candlestick Charts Using Plotly (BitCoin)]
+ 
 [4. Building Models - Predicting Price for Cryptocurrencies](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
  - [Prepare Data for Models]
  - [Applying Machine Learning Models]
  - [Prices Prediction]
+ 
 [5. Conclusion - Investment Suggestion](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
  - [How to maximize your short term investment gains?]
  - [Whether to invest in cryptocurrency in the long term?]
+ 
 [6. Future Work]
+
 [7. Reference]
 
 ## Reference

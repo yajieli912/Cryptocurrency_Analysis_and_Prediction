@@ -1,6 +1,6 @@
 # Cryptocurrency Analysis and Prediction
 Cryptocurrency analysis and machine learning prediction using data from 2013 - 2018. <br>
-Will BitCoin become ecnomic bubble? What other cryptocurrencies that are worth to invest in?<br>
+*Will BitCoin become ecnomic bubble? What other cryptocurrencies that are worth to invest in?*<br>
 Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](http://www.businessinsider.com/invest-cryptocurrency-blockchain-technology-2017-8)
 
 
@@ -38,9 +38,9 @@ Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](ht
  - How to maximize your short term investment gains?
  - Whether to invest in cryptocurrency in the long term?
  
-[6. Future Work]
+6. Future Work
 
-[7. Reference]
+7. Reference
 
 ## Reference
 Kaggle: https://www.kaggle.com/jessevent/all-crypto-currencies

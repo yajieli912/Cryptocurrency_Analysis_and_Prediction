@@ -22,12 +22,12 @@ Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](ht
  - Check Duplicated Values
  
 [3. Exploratory Data Analysis and Feature Engineering](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - 1.Market Capitalization and Transaction Volume
- - 2.Price Fluctuation of Cryptocurrencies
- - 3.Moving Averages and Price Trend
- - 4.Market Prices of Cryptocurrencies
- - 5.Return Ratio
- - 6.Candlestick Charts Using Plotly (BitCoin)
+ - Market Capitalization and Transaction Volume
+ - Price Fluctuation of Cryptocurrencies
+ - Moving Averages and Price Trend
+ - Market Prices of Cryptocurrencies
+ - Return Ratio
+ - Candlestick Charts Using Plotly (BitCoin)
  
 [4. Building Models - Predicting Price for Cryptocurrencies](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
  - Prepare Data for Models
@@ -43,5 +43,5 @@ Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](ht
 7. Reference
 
 ## Reference
-Kaggle: https://www.kaggle.com/jessevent/all-crypto-currencies
+Kaggle: https://www.kaggle.com/jessevent/all-crypto-currencies <br>
 Business Insider: http://www.businessinsider.com/invest-cryptocurrency-blockchain-technology-2017-8

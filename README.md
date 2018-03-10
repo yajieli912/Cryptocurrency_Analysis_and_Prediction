@@ -1,32 +1,41 @@
 # Cryptocurrency Analysis and Prediction
-Cryptocurrency analysis and machine learning prediction using data from 2013 - 2018. 
+Cryptocurrency analysis and machine learning prediction using data from 2013 - 2018. <br>
+Will BitCoin become ecnomic bubble? What other cryptocurrencies that are worth to invest in?<br>
+Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](http://www.businessinsider.com/invest-cryptocurrency-blockchain-technology-2017-8)
 
-Table of Content<br>
-[1. Prepare Data Set](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Load Python Packages](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Load and Prepare Data Set](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- 
-[2. Data Quality Assessment](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Check Missing Values](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Check Duplicated Values](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
 
-[3. Exploratory Data Analysis and Feature Engineering](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [1.Market Capitalization and Transaction Volume](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [2.Price Fluctuation of Cryptocurrencies](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [3.Moving Averages and Price Trend](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [4.Market Prices of Cryptocurrencies](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [5.Return Ratio](#3-5)
- - [6.Candlestick Charts Using Plotly (BitCoin)](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+## Packages and Machine Learning techniques used
+1. Plotly
+2. RandomForest
+3. GradientBoosting
+4. ExtraTrees
+5. BayesianRidge
+6. ElasticNetCV
 
-[4. Building Models - Predicting Price for Cryptocurrencies](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Prepare Data for Models](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Applying Machine Learning Models](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Prices Prediction](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+## Table of Content<br>
+[1. Prepare Data Set](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+ - [Load Python Packages]
+ - [Load and Prepare Data Set] 
+[2. Data Quality Assessment](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+ - [Check Missing Values]
+ - [Check Duplicated Values]
+[3. Exploratory Data Analysis and Feature Engineering](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+ - [1.Market Capitalization and Transaction Volume]
+ - [2.Price Fluctuation of Cryptocurrencies]
+ - [3.Moving Averages and Price Trend]
+ - [4.Market Prices of Cryptocurrencies]
+ - [5.Return Ratio]
+ - [6.Candlestick Charts Using Plotly (BitCoin)]
+[4. Building Models - Predicting Price for Cryptocurrencies](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+ - [Prepare Data for Models]
+ - [Applying Machine Learning Models]
+ - [Prices Prediction]
+[5. Conclusion - Investment Suggestion](https://nbviewer.jupyter.org/github/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+ - [How to maximize your short term investment gains?]
+ - [Whether to invest in cryptocurrency in the long term?]
+[6. Future Work]
+[7. Reference]
 
-[5. Conclusion - Investment Suggestion](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [How to maximize your short term investment gains?](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
- - [Whether to invest in cryptocurrency in the long term?](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
-
-[6. Future Work](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
-
-[7. Reference](https://github.com/yajieli912/Cryptocurrency_Analysis_and_Prediction/blob/master/Analysis_of_Cryptocurrency_Investments.ipynb)
+## Reference
+Kaggle: https://www.kaggle.com/jessevent/all-crypto-currencies
+Business Insider: http://www.businessinsider.com/invest-cryptocurrency-blockchain-technology-2017-8

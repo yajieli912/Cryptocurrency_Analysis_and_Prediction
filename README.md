@@ -45,3 +45,4 @@ Recommendations based on the top 7 cryptos mentioned in [BusinessInsider.com](ht
 ## Reference
 Kaggle: https://www.kaggle.com/jessevent/all-crypto-currencies <br>
 Business Insider: http://www.businessinsider.com/invest-cryptocurrency-blockchain-technology-2017-8
+Pyramid auto_arima Python Package: http://pyramid-arima.readthedocs.io/en/latest/_submodules/arima.html#auto-arima
